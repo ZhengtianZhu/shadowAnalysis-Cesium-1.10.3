@@ -1,5 +1,5 @@
 # Motivation
-Project goal: Transplanting the existing code in this link https://github.com/SuperMap/vueiClient3D_for_Cesium from Cesium 1.6 to Cesium 1.10.3. 
+Project goal: Transplanting the existing code in this link https://github.com/SuperMap/vue-iClient3D_for_Cesium from Cesium 1.6 to Cesium 1.10.3. 
 However, the new project based on Cesium 1.10.3 cannot use any function in SuperMap, which is based on Cesium 1.6.
 That's why I need to rewrite some components of the original project. As for me, I'm responsible for the component in src/component/shadowAnalysis with my friends under my advisor's guidelines.
 
@@ -10,6 +10,7 @@ referring to the initial software: https://www.supermapol.com/earth/vue-iEarth/e
 
 # 2023/6/1 
 I am replacing this  "shadowQuery = new Cesium.ShadowQueryPoints(scene); ". At present, I need to write a similar function of this.
+I am referring to others' realization at present since it is a huge project.
 
 # Start date
 2023/4/15
