@@ -1,7 +1,8 @@
 #Zhengtian's part:
 the component is in src/component/shadowAnalysis, and I have even added something in the configuration file like package.json .
 initial software: https://www.supermapol.com/earth/vue-iEarth/examples/index.html
-#2023/6/1 I am replacing this  "shadowQuery = new Cesium.ShadowQueryPoints(scene); ". At present, I need to write a similar function of  this.
+
+//#2023/6/1 I am replacing this  "shadowQuery = new Cesium.ShadowQueryPoints(scene); ". At present, I need to write a similar function of  this.
 
 # Vue 3 + TypeScript + Vite
 
