@@ -1,3 +1,15 @@
+# Another project
+Due to privacy, I cannot upload the source code of the project. I mainly write some service codes there. 
+Some snapshots are like these.
+
+Besides, I also have a demo and did some attempts here. 
+
+* vue组件如何调用别人写好的js文件, js:Heatmap
+![c0f6351dbdeaacc458dc6c148308386](https://github.com/ZhengtianZhu/shadowAnalysis-Cesium-1.10.3/assets/24854133/2f14e814-cf1d-4517-8be2-f3aef1d68a98)
+
+* What's more, I assist in looking for some third party plugins like 
+![91a79fc773f4b9eb64688ad0cfafebe](https://github.com/ZhengtianZhu/shadowAnalysis-Cesium-1.10.3/assets/24854133/fe0d87b7-aa3d-4e64-afc7-ba97be2e99ef)
+
 # Motivation
 Project goal: Transplanting the existing code in this link https://github.com/SuperMap/vue-iClient3D_for_Cesium from Cesium 1.6 to Cesium 1.10.3. 
 However, the new project based on Cesium 1.10.3 cannot use any function in SuperMap, which is based on Cesium 1.6.
@@ -11,7 +23,7 @@ referring to the initial software: https://www.supermapol.com/earth/vue-iEarth/e
 # 2023/6/1 
 I am replacing this  "shadowQuery = new Cesium.ShadowQueryPoints(scene); ". At present, I need to write a similar function of this.
 I am referring to others' realization at present since it is a huge project.
-
+Finally, I choose to seek help from this link: https://www.liaomz.top/2023/04/18/cesium-zhong-shi-xian-yin-ying-lu-fen-xi/, which has the module I need.
 # Start date
 2023/4/15
 
