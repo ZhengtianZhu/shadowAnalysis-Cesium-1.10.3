@@ -4,6 +4,14 @@ Some snapshots are like these.
 
 Besides, I also have a demo and did some attempts here. 
 
+* load 3D model:
+  ![4f5330829d6e3776ab481eadd8e67ea](https://github.com/ZhengtianZhu/shadowAnalysis-Cesium-1.10.3/assets/24854133/e6b92b33-ef35-4125-b264-cb622f3b3d62)
+![f02f89a31edeb7f2b41ba2a23a61762](https://github.com/ZhengtianZhu/shadowAnalysis-Cesium-1.10.3/assets/24854133/2647057b-9f99-48a6-ac0a-ea67ea41f937)
+![68a38395a56434586944e0122416e99](https://github.com/ZhengtianZhu/shadowAnalysis-Cesium-1.10.3/assets/24854133/c0416a7d-6e2d-4346-9e5d-047def647144)
+
+* load terrain data:
+  ![36543bf28da4fd1f7716485c90ea59c](https://github.com/ZhengtianZhu/shadowAnalysis-Cesium-1.10.3/assets/24854133/910f6dec-4c10-4921-9bef-f5ab08cca08e)
+
 * vue组件如何调用别人写好的js文件, js:Heatmap
 ![c0f6351dbdeaacc458dc6c148308386](https://github.com/ZhengtianZhu/shadowAnalysis-Cesium-1.10.3/assets/24854133/2f14e814-cf1d-4517-8be2-f3aef1d68a98)
 
