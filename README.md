@@ -7,7 +7,7 @@ Besides, I also have a demo and did some attempts here.
 * vue组件如何调用别人写好的js文件, js:Heatmap
 ![c0f6351dbdeaacc458dc6c148308386](https://github.com/ZhengtianZhu/shadowAnalysis-Cesium-1.10.3/assets/24854133/2f14e814-cf1d-4517-8be2-f3aef1d68a98)
 
-* What's more, I assist in looking for some third party plugins like 
+* What's more, I assist in looking for some third party plugins like Heat3Dmap
 ![91a79fc773f4b9eb64688ad0cfafebe](https://github.com/ZhengtianZhu/shadowAnalysis-Cesium-1.10.3/assets/24854133/fe0d87b7-aa3d-4e64-afc7-ba97be2e99ef)
 
 # Motivation
