@@ -56,3 +56,10 @@ Besides, I also have a demo and did some attempts here.
 
 * What's more, I assist in looking for some third party plugins like Heat3Dmap
 ![91a79fc773f4b9eb64688ad0cfafebe](https://github.com/ZhengtianZhu/shadowAnalysis-Cesium-1.10.3/assets/24854133/fe0d87b7-aa3d-4e64-afc7-ba97be2e99ef)
+
+I also use Blender to create 3D model, recently, though I am still studying. 
+![86f93f5b1963d309dbadded478dbfdc](https://github.com/ZhengtianZhu/shadowAnalysis-Cesium-1.10.3/assets/24854133/e76fc294-baa3-4ef4-a2c9-837dbc8cc2cb)
+
+![image](https://github.com/ZhengtianZhu/shadowAnalysis-Cesium-1.10.3/assets/24854133/dc3bb7eb-d0b6-45a6-bef6-26fade2f5617)
+
+
