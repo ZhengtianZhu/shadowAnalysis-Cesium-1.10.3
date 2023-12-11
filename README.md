@@ -1,3 +1,6 @@
+# Reference
+https://www.iflytek.com/product-detail?link=city/cscn/3166
+
 # Motivation
 Project goal: Transplanting the existing code in this link https://github.com/SuperMap/vue-iClient3D_for_Cesium from Cesium 1.6 to Cesium 1.10.3. 
 However, the new project based on Cesium 1.10.3 cannot use any function in SuperMap, which is based on Cesium 1.6.
